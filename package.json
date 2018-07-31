@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/codealchemist/wsbroadcast#readme",
   "dependencies": {
-    "websocket-broadcast": "^2.0.0"
+    "websocket-broadcast": "git+https://github.com/codealchemist/websocket-broadcast.git"
   }
 }
