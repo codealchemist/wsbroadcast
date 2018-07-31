@@ -1,0 +1,27 @@
+{
+  "name": "wsbroadcast",
+  "version": "1.0.0",
+  "description": "Broadcast ws messages.",
+  "main": "index.js",
+  "scripts": {
+    "start": "websocket-broadcast --noid --nolog"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codealchemist/wsbroadcast.git"
+  },
+  "keywords": [
+    "websocket",
+    "ws",
+    "broadcast"
+  ],
+  "author": "Alberto Miranda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codealchemist/wsbroadcast/issues"
+  },
+  "homepage": "https://github.com/codealchemist/wsbroadcast#readme",
+  "dependencies": {
+    "websocket-broadcast": "^2.0.0"
+  }
+}
