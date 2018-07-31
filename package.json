@@ -4,7 +4,7 @@
   "description": "Broadcast ws messages.",
   "main": "index.js",
   "scripts": {
-    "start": "websocket-broadcast --noid --nolog"
+    "start": "websocket-broadcast --noid"
   },
   "repository": {
     "type": "git",
